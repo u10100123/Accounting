@@ -1,0 +1,5 @@
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\bin\Debug\netcoreapp3.1\publish\Accounting.exe
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\bin\Debug\netcoreapp3.1\publish\Accounting.dll
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\bin\Debug\netcoreapp3.1\publish\Accounting.deps.json
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\bin\Debug\netcoreapp3.1\publish\Accounting.runtimeconfig.json
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\bin\Debug\netcoreapp3.1\publish\Accounting.pdb
