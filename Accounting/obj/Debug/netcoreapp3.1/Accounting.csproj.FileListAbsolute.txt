@@ -1,0 +1,15 @@
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\bin\Debug\netcoreapp3.1\Accounting.exe
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\bin\Debug\netcoreapp3.1\Accounting.deps.json
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\bin\Debug\netcoreapp3.1\Accounting.runtimeconfig.json
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\bin\Debug\netcoreapp3.1\Accounting.runtimeconfig.dev.json
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\bin\Debug\netcoreapp3.1\Accounting.dll
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\bin\Debug\netcoreapp3.1\Accounting.pdb
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\obj\Debug\netcoreapp3.1\Accounting.csprojAssemblyReference.cache
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\obj\Debug\netcoreapp3.1\Accounting.Form1.resources
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\obj\Debug\netcoreapp3.1\Accounting.csproj.GenerateResource.cache
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\obj\Debug\netcoreapp3.1\Accounting.AssemblyInfoInputs.cache
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\obj\Debug\netcoreapp3.1\Accounting.AssemblyInfo.cs
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\obj\Debug\netcoreapp3.1\Accounting.csproj.CoreCompileInputs.cache
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\obj\Debug\netcoreapp3.1\Accounting.dll
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\obj\Debug\netcoreapp3.1\Accounting.pdb
+C:\Users\DEFUS\Documents\GitHub\Accounting\Accounting\obj\Debug\netcoreapp3.1\Accounting.genruntimeconfig.cache
